@@ -10,6 +10,6 @@ visi here
 }
 		</script>
 		
-        <footer>
-            <div  id="visits">....</div>
+   <footer>
+           <div  id="visits">....</div>
 		</footer>
